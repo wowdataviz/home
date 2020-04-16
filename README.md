@@ -1,1 +1,2 @@
-# home learning github
+# home 
+learning github is not difficult!
